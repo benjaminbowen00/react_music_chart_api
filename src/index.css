@@ -1,0 +1,32 @@
+body {
+  margin: auto;
+  padding: 10px;
+  font-family: sans-serif;
+  width: 50%;
+}
+
+.image-div {
+  float: right;
+}
+
+.artist {
+  font-weight: bold;
+}
+
+.title {
+  padding: 0px 5px;
+  margin: 0px;
+}
+
+.record-div {
+  border: 1px solid black;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.position {
+  padding: 0px 10px;
+  font-size: 150%
+}
